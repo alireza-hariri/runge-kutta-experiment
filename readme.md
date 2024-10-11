@@ -49,6 +49,7 @@ $$
 ![alt text](imgs/result.jpg)
 
 As you can see the slope of the RK2 and RK4 chats are equal
-and it is accurately relates to $ O(h^{1.5}) $ to my interestingly it is not $ O(h^3) $ and i don't know why because the proof that linked above looks pretty straightforward.
+and it is accurately relates to $ O(h^{1.5}) $ interestingly it is not $ O(h^3) $ and i don't know why. 
+ the proof that linked above looks pretty straightforward and i am really confused.
 
-if you know what's wrong here please post an issue
+if you know what's wrong here please help me with an issue here.
